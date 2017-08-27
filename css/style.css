@@ -27,3 +27,8 @@ h2 {
 	margin: 0;
 	color: #eee;
 }
+h3 {
+	color: linear-gradient(to left, #2ecc71 0%, #2980b9 100%);
+	font-size: 3em;
+	display: inline-block;
+}
