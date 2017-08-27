@@ -1,5 +1,6 @@
 body {
-	background-color: pink;	
+	background-color: grey;	
 	font-family: sans-serif;
 	font-size: 1.2em;
+	word-wrap: 3em;
 }
