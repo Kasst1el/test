@@ -1,13 +1,29 @@
 body {
-	background-color: lavender;	
+	background: linear-gradient(to left, #2ecc71 0%, #2980b9 100%);	
 	font-family: sans-serif;
 	font-size: 1.2em;
-	word-wrap: 3em;
 	font-weight: 400;
 	text-align: center;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-content: center;
+	height: 100vh;
+
 }
 h1 {
-	color: #555;
+	color: #fff;
 	font-size: 3em;
 	font-weight: 300;
+	line-height: 1;
+	width: 100%;
+	margin: 0;
+}
+h2 {
+	font-size: 2em;
+	font-weight: 300;
+	line-height: 1;
+	width: 100%;
+	margin: 0;
+	color: #eee;
 }
